@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am Husband and Dad.  I love to build things and tinker with stuff to make it better and faster.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[bfarzin@gmail.com](mailto:bfarzin@gmail.com)
