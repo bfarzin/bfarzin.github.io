@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Label Smoothing as a Regularization
+title: Label Smoothing as a Regularizer
 ---
 
 There are some good discussions on the Fast.ai forums [here](https://forums.fast.ai/t/is-label-smoothing-off-by-eps-n/44290) and [lesson notes](https://medium.com/@lankinen/fast-ai-lesson-12-notes-part-2-v3-dd53bec89c0b) that talk about label smoothing.  It showed up in [Lesson 12 video along with Mixup](https://forums.fast.ai/t/lesson-12-2019-discussion-and-wiki/44009).
