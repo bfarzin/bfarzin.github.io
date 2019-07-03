@@ -21,7 +21,7 @@ plt.legend()
 _ = plt.ylabel("Smoothed CE")
 ```
 
-<img src="{{ site.baseurl }}/images/labelsmoothing.png" alt="nbsvm_tweet_image"/>
+<img src="{{ site.baseurl }}/images/labelsmoothing.png" alt="plot_of_bce_vs_LSR"/>
 
 This graph shows the difference between the usual Binary Cross Entropy (BCE) and the label smoothed values for predicted probabilities >0.5.  When <0.5, they are about the same.  Looking at the graph, I noticed two things:
 
